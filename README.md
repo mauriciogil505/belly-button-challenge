@@ -231,5 +231,8 @@ d3.json("https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json").th
 });
 // Launched in port http://localhost:8000/
 
+### Deployment of webpage via static pages offered by GitHub.
+https://mauriciogil505.github.io/belly-button-challenge/
+
 ### Credits
 Class Recordings, Class Study Materials, Xpert Learning Assistant, Peer discussions, Stack overflow
